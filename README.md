@@ -33,6 +33,6 @@ The app has two main screens:
 - Map screen: displays a Google Map and allows the user to pick a location by tapping on the map. The app then fetches the user's coordinates and displays a static map snapshot based on the chosen location. The user can then enter a title for the location and take a photo using their device's camera. When the user saves the location, the data is stored locally using SQLite.
 - Place details screen: displays a list of all the saved locations, with their titles, photos, and static map snapshots. The user can tap on a location to view its details, including the full-size photo and the exact coordinates.
 
-## Contributing
+## FeedBack
 
-Contributions to this project are welcome. To get started, fork the repository and create a new branch for your feature or bug fix. Once you have made your changes, submit a pull request for review.
+-If You have any feedback reach out to anantdevsingh9@gmail.com
